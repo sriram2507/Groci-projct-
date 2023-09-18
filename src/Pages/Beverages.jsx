@@ -21,7 +21,7 @@ const Beverages = () => {
 
                 <div className='outerbox2'><img src="Slice.jpg" height={'300'} width={'340px'}></img>
                 <div className='productdetail'>
-                <p>slice</p>
+                <p>Slice</p>
                 <label for="slice">Choose Quantity:</label>
                 <select name="slice" id="slice">
                 <option value="1.5l">1.5L - &#8377;60</option>
@@ -152,7 +152,7 @@ const Beverages = () => {
 
                 <div className='outerbox2'><img src="chips.jpeg" height={'300'} width={'340px'}></img>
                 <div className='productdetail'>
-                    <p>Buy 1L pepsi get a free Lays! at <mark>&#8377;45</mark></p>
+                    <p>Buy 1l pepsi get a free Lays! at <mark>&#8377;45</mark></p>
                 
                 <button>Add cart</button>
                 </div>

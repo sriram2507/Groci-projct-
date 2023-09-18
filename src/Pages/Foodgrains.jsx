@@ -167,7 +167,7 @@ const Foodgrains = () => {
                 
                 <div className='outerbox2'><img src="ghee.webp" height={'300'} width={'300px'}></img>
                 <div className='productdetail'>
-                <p>ghee</p>
+                <p>Ghee</p>
                 <label for="ghee">Choose Quantity:</label>
                 <select name="ghee" id="ghee">
                 <option value="1l">1L - &#8377;730</option>
